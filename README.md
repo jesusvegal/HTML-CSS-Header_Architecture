@@ -22,6 +22,22 @@ This repository contains all the necessary files to implement the impressive arc
 
 ![Header](img/Architecture.png) 
 
+## Project Structure
+
+The project's code is carefully organized to ensure easy understanding and maintainability. The structure is as follows:
+
+- 🧱 HTML (index.html): This file defines the structure and content of the page, from the initial header to the services section, including the fundamental elements that make up the interface. It serves as the starting point for building the webpage.
+- 🎨 CSS (style.css): This file is responsible for establishing the visual style of the project. It defines everything from typography, colors, and margins to the layout and arrangement of sections. It manages the aesthetics and visual interactivity of the header
+
+
+
+## Resources Used
+
+🌐 Google Fonts: The fonts Poppins and Playfair Display are used to give the project a modern and elegant touch.
+
+- Poppins: Chosen for its clean and geometric style, ideal for headings and highlighted text.
+- Playfair Display: Selected for its classic elegance, perfect for subtitles and visual details.
+
 ## Contributions 🤝
 
 Your participation is valuable! If you have ideas, improvements, or find any issues, feel free to:
@@ -86,7 +102,7 @@ El código del proyecto está cuidadosamente organizado para garantizar una fác
 
 🌐  Google Fonts: Se emplean las fuentes Poppins y Playfair Display para aportar un toque moderno y elegante al proyecto.
 - Poppins: Elegida por su estilo limpio y geométrico, ideal para títulos y texto destacado.
-- Playfair Display: Seleccionada por su elegancia clásica, perfecta para los subtítulos y detalles visuales
+- Playfair Display: Seleccionada por su elegancia clásica, perfecta para los subtítulos y detalles visuales.
 
 
 ## Contribuciones 🤝
